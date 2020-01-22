@@ -2,20 +2,17 @@
 
 
 <h3 align="center">
-  Desafio 2: Gympoint
+  Gympoint
 </h3>
 
 <p align="center">
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
   </a>
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 </p>
 
 <p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>
 </p>
 
 ## :rocket: Sobre o desafio
